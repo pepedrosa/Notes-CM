@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas-CM</string>
+    <string name="note">Nota</string>
+    <string name="hello_blank_fragment">Ola espaço em branco</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Eliminar</string>
+    <string name="back">Voltar</string>
+</resources>
